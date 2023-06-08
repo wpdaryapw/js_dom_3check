@@ -1,0 +1,28 @@
+.child{
+    margin-left: 15px;
+    padding: 10px;
+}
+.child__header{
+    background: #105ba6;
+    padding: 10px;
+    color:white;
+}
+.header__visible{
+    display: inline;
+}
+
+button.header__visible{
+    border: 0;
+    border-radius: 2px;
+    color: white;
+    background: #257ed7;
+}
+
+h3{
+    display: inline;
+    font-size: 15px;
+}
+
+.display-none{
+    display: none;
+}
